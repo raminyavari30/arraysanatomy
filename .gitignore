@@ -4,6 +4,6 @@ bower_components/
 
 build/
 dist/
-
 client/app/lib/ 
 server/db/cafe.db
+.DS_Store
